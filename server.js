@@ -37,5 +37,5 @@ app.listen(port, () => {
 // iniciando el proyecto con todas sus vistas y endpoints en la plataforma Heroku.
 // Deberás compartir la url pública para verificar elfuncionamiento correcto.
 
-
+//https://link-app22.herokuapp.com/
 
